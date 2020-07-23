@@ -14,6 +14,6 @@ let package = Package(
         .target(
             name: "UICheckbox.Swift",
             dependencies: [],
-            path: "Sources"),
+            path: "UICheckbox"),
     ]
 )
